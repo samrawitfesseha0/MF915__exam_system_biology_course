@@ -1,11 +1,11 @@
 # MF915__exam_system_biology_course
 ## Task 1: Reviewing the data 
 ### Question 1.1: how many predictions are there in the raw data file? 
-#### Answer:- there are    predictions
+#### Answer:- There are <35231> predictions in the miRAW_target_data
 ### Question 1.2: How many unique genes are there in the list? 
-#### Answer:-
+#### Answer:- Number of unique genes: 40
 ### Question 1.3: How many unique miRNAs are there in the list?
-#### Answer:- 
+#### Answer:- Number of unique miRNA: 1627
 ## Task 2: Filtering the data 
 ### Question 2: How many predictions are left after filtering?
 #### Answer:- 
