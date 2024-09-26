@@ -1,4 +1,5 @@
 # MF915__exam_system_biology_course
+
 ## Task 1: Reviewing the data 
 ### Question 1.1: how many predictions are there in the raw data file? 
 #### Answer:- There are <35231> predictions in the miRAW_target_data
@@ -6,17 +7,21 @@
 #### Answer:- Number of unique genes: 40
 ### Question 1.3: How many unique miRNAs are there in the list?
 #### Answer:- Number of unique miRNA: 1627
+
 ## Task 2: Filtering the data 
 ### Question 2: How many predictions are left after filtering?
-#### Answer:- 
+#### Answer:- Number of predictions left after filtering is 0 because there are no predictions that have prediction probability thats is greater than 0.999 and also energy that is greater than 10
+
 ## Task 3: Targeting types 
 ### Question 3.1: What percentage of the reported targets are non-canonical? 
-#### Answer:- 
+#### Answer:- Percentage of ' noncanonical' is 50.00%
 ### Question 3.2: Is this consistent with what is reported in the literature? 
 #### Answer:- 
+
 ## Task 4: 3’UTR Lengths 
 ### Question 4.1: What are the lengths of all the 3’UTRs? 
 #### Answer:- 
+
 ## Task 5: miRNA binding along the 3’UTR 
 ### Question 5.1: Plot the distribution of locations of the start positions for all 3’UTRs.
 #### Answer:- 
@@ -26,9 +31,11 @@
 #### Answer:- 
 ### Question 5.4: Display these two types of binding on the plot?
 #### Answer:- 
+
 ## Task 6: multiple miRNA binding events 
 ### Question 6.1: Generate another histogram to show how many times one miRNA binds to the same 3’UTR for all miRNA and all 3’UTRs.  
 #### Answer:- 
+
 ## Task 7: generate a miRNA--3’UTR targeting network 
 ### Question 7.1: Similar to the plot above, generate a Connectivity Plot. 
 #### Answer:-
