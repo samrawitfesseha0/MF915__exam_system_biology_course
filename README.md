@@ -29,10 +29,10 @@
 
 
 ### Question 5.2: Are there any biases in the location of where the miRNAs bind on the 3’UTR? 
-#### Answer:- 
+#### Answer:- From the histogram above, the 3' UTR start positions we can observe that there is a clear bias in where miRNAs bind to the 3' UTR. we can say that because there is Higher frequency near the start which means, There is a significant concentration of miRNA binding events near the beginning of the 3' UTR region. And As you move farther from the start of the 3' UTR, the number of miRNA binding events gradually decreases.This suggests that miRNA binding sites tend to concentrate toward the beginning of the 3' UTR in our dataset
 ### Question 5.3: Are there any differences between where the canonical and non-canonical targeting events bind? 
 #### Answer:- 
-### Question 5.4: Display these two types of binding on the plot?
+### Question 5.4: Display these two types of binding on the plot?,
 #### Answer:- 
 
 ## Task 6: multiple miRNA binding events 
