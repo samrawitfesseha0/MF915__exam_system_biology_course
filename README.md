@@ -24,7 +24,8 @@
 
 ## Task 5: miRNA binding along the 3’UTR 
 ### Question 5.1: Plot the distribution of locations of the start positions for all 3’UTRs.
-#### Answer:- 
+#### Answer:- ![Distribution of Start Positions for 3' UTRs](https://github.com/user-attachments/assets/64b96606-53b2-420d-bbc0-bdf689a5c756)
+
 ### Question 5.2: Are there any biases in the location of where the miRNAs bind on the 3’UTR? 
 #### Answer:- 
 ### Question 5.3: Are there any differences between where the canonical and non-canonical targeting events bind? 
