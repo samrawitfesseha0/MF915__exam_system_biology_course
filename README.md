@@ -38,7 +38,7 @@
 
 ## Task 6: multiple miRNA binding events 
 ### Question 6.1: Generate another histogram to show how many times one miRNA binds to the same 3’UTR for all miRNA and all 3’UTRs.  
-#### Answer:- 
+#### Answer:- ![Distribution of miRNA Binding Events to 3' UTRs](https://github.com/user-attachments/assets/7179277a-1eae-4b81-b833-aab6b4a76476)
 
 ## Task 7: generate a miRNA--3’UTR targeting network 
 ### Question 7.1: Similar to the plot above, generate a Connectivity Plot. 
